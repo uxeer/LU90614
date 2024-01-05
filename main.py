@@ -1,6 +1,8 @@
 import serial
 from time import sleep
-import msvcrt  # Module to detect keyboard input in Windows
+'''
+Change the com port according to your device port
+'''
 
 ser = serial.Serial('COM4', 9600, serial.EIGHTBITS, serial.PARITY_NONE, serial.STOPBITS_ONE, 1)
 human = b'\xFA\xC5\xBF'
