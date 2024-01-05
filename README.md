@@ -1,2 +1,2 @@
-# LU90614-pythonCode
-LU90614 Infrared Temperature Sensor Module Python code
+# LU90614 Non-invasive Temperature Sensor
+LU90614 Infrared Temperature Sensor Module Python and Arduino codes
